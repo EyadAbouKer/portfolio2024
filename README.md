@@ -32,3 +32,14 @@ Then, run the development server:
 npm run dev
 yarn dev
 Open http://localhost:3000 with your browser to see the result.
+
+
+# Packages Used 📦
+## Used Package List
+- next
+- lottie-react
+- react-fast-marquee
+- react-icons
+- react-toastify
+- sass
+- tailwindcss
