@@ -17,6 +17,9 @@ node --version
 git --version
 
 
+# Clone The Repo
+***https://github.com/<YoutGithubUserName>/portfolio2024.git***
+
 # Install packages from the root directory
 
 
