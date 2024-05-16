@@ -1,12 +1,12 @@
 # Sections 🔖
-HERO SECTION
-ABOUT ME
-EXPERIENCE
-SKILLS
-PROJECTS
-EDUCATION
-BLOG
-CONTACTS
+- HERO SECTION
+- ABOUT ME
+- EXPERIENCE
+- SKILLS
+- PROJECTS
+- EDUCATION
+- BLOG
+- CONTACTS
 
 # Installation ⬇️
 You will need to download Git and Node to run this project
