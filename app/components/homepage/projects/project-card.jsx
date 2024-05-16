@@ -66,12 +66,13 @@ function ProjectCard({ project }) {
             <span className="text-white">Link:</span>
             <a href={project.link} className="text-amber-300">{' Source Code'}</a>
             <span className="text-gray-400">,</span>
-          </div>
+          <span className="text-gray-400">{`};`}</span></div>
+        </code>
+        </div>
             <div  className="rounded-full h-140 w-140 transition-all duration-1000  hover:grayscale-0 hover:scale-110 cursor-pointer" style={{ display: 'flex', justifyContent: 'center' }}>
               <image src={project.pic}  className='rounded-lg' style={{ width: '250px', height: 'auto' }} alt="related picture" />
             </div>
-          <div><span className="text-gray-400">{`};`}</span></div>
-        </code>
+          <div>
       </div>
     </div>
     </div> 
