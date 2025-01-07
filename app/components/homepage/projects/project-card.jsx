@@ -5,7 +5,8 @@ import * as React from 'react';
 function ProjectCard({ project }) {
 
   return (
-    <div className="rounded-full h-140 w-140 transition-all duration-1000 grayscale hover:grayscale-0 hover:scale-110 cursor-pointer">
+    <div className="rounded-full h-140 w-140 transition-all duration-1000  hover:scale-110 cursor-pointer">
+    {/* // <div className="rounded-full h-140 w-140 transition-all duration-1000"> */}
       <div className="from-[#0d1224] border-[#1b2c68a0] relative rounded-lg border bg-gradient-to-r to-[#0a0d37] w-full">
       <div className="flex flex-row">
         <div className="h-[1px] w-full bg-gradient-to-r from-transparent via-pink-500 to-violet-600"></div>
